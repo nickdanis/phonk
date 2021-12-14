@@ -1,5 +1,7 @@
 # phonk: some helpful phonetics and phonology functions
 
+Pronounced [fʌŋk], [fɑŋk], [fɔŋk], or even [foʊŋk].
+
 ## Installation
 
 Run the following:
