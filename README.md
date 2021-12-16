@@ -7,7 +7,7 @@ Pronounced [fʌŋk], [fɑŋk], [fɔŋk], or even [foʊŋk].
 Run the following:
 
 ```
-pip intall phonk
+pip install phonk
 ```
 
 ## Usage
