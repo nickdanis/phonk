@@ -103,4 +103,4 @@ Only the first instance call of `RhymeComp` loads the relevant tables into memor
 
 ## Acknowledgements
 
-TK 
+Special thanks to: [ABasu](https://github.com/ABasu), [jfloewen](https://github.com/jfloewen), [jrladd](https://github.com/jrladd), [knoxdw](https://github.com/knoxdw), [michaelpginn](https://github.com/michaelpginn), [spenteco](https://github.com/spenteco)
